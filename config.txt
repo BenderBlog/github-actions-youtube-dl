@@ -4,6 +4,7 @@
 --write-description
 --write-info-json
 --write-thumbnail
+--format bestvideo+bestaudio
 
 # --external-downloader bin/aria2c
 # --external-downloader-args '-c -x 16 -k 1M'
